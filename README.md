@@ -1,31 +1,18 @@
-# Hi there, I'm Developer 👋 
+# 💫 About Me:
+# Hi there, I'm Developer 👋 <br><br>## ✝️ Scripture Union India | Tech Lead & Developer<br>I am passionate about leveraging technology to spread the Word of God and support the mission of **Scripture Union**. I specialize in building digital tools, resources, and platforms that empower youth ministry and Christian outreach.<br><br>---<br><br>### 🚀 What I'm Working On<br>* **SU Digital Outreach:** Developing modern web solutions for Scripture Union India.<br>* **Resource Distribution:** Building systems for daily devotionals and ministry curriculum.<br>* **Media Innovation:** Integrating AI-driven image and video generation for ministry storytelling.<br><br>### 🛠 Tech Stack<br>* **Frontend:** React.js, Next.js, Tailwind CSS<br>* **Backend:** Node.js, Python<br>* **Creative:** Image & Video Generation (AI-driven)<br>* **Mission:** Digital Evangelism & Christian Education<br><br>---<br><br>### 🤝 Connect with Me<br>* **Organization:** [Scripture Union India](https://www.scriptureunionindia.org)<br>* **Portfolio:** *Developing...*<br>* **Goal:** To make the Bible accessible to every child and young person through digital excellence.<br><br>---<br><br>### 📜 Verse of the Day<br>> *"Thy word is a lamp unto my feet, and a light unto my path."* — **Psalm 119:105**<br><br>
 
-## ✝️ Scripture Union India | Tech Lead & Developer
-I am passionate about leveraging technology to spread the Word of God and support the mission of **Scripture Union**. I specialize in building digital tools, resources, and platforms that empower youth ministry and Christian outreach.
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suindia.org@gmail.com) 
 
-### 🚀 What I'm Working On
-* **SU Digital Outreach:** Developing modern web solutions for Scripture Union India.
-* **Resource Distribution:** Building systems for daily devotionals and ministry curriculum.
-* **Media Innovation:** Integrating AI-driven image and video generation for ministry storytelling.
-
-### 🛠 Tech Stack
-* **Frontend:** React.js, Next.js, Tailwind CSS
-* **Backend:** Node.js, Python
-* **Creative:** Image & Video Generation (AI-driven)
-* **Mission:** Digital Evangelism & Christian Education
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=scriptureunion&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=scriptureunion&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptureunion&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=scriptureunion&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤝 Connect with Me
-* **Organization:** [Scripture Union India](https://www.scriptureunionindia.org)
-* **Portfolio:** *Developing...*
-* **Goal:** To make the Bible accessible to every child and young person through digital excellence.
-
----
-
-### 📜 Verse of the Day
-> *"Thy word is a lamp unto my feet, and a light unto my path."* — **Psalm 119:105**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suindiatech&show_icons=true&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
